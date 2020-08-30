@@ -9,10 +9,9 @@ $merah = "\e[91m";
 
 echo "$cyan + //////////////////////////////+\n";
 
-echo "$cyan ___           _     _
+echo "$cyan
 ｲんﾑﾶ乙\n";
-echo "_   _                 _
-\n\n";
+
 
 echo " Only God Can Stop Me :D \n ";
 echo " $merah INFO! ";
