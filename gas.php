@@ -10,10 +10,10 @@ $merah = "\e[91m";
 echo "$cyan + //////////////////////////////+\n";
 
 echo "$cyan
-ｲんﾑﾶ乙\n";
+丅卄卂从乙\n";
 
 
-echo " Only God Can Stop Me :D \n ";
+echo "  \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://pastebin.com/raw/k4qabq9K");
 echo " \n";
